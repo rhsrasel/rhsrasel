@@ -12,17 +12,17 @@ I enjoy turning complex business requirements into clean, maintainable, and user
 
 ## 🚀 About Me
 
-* 🛍️ **9+ years** of Shopify development experience
-* 🚀 Delivered **80+ Shopify projects**
-* 💎 Experienced with **Shopify Plus**
-* 🎨 Specialized in custom Shopify theme development
-* 🔌 Experienced with Shopify APIs, GraphQL, REST, and integrations
-* ⚡ Focused on performance, CRO, SEO, and user experience
-* 🧩 Experience with Checkout Extensions and Customer Account UI Extensions
-* 🏗️ Experienced in Shopify store migrations and custom solutions
-* 👨‍💻 Backend experience with Node.js, Express, and MongoDB
-* ⚛️ Frontend experience with React, Remix, Next.js, and modern JavaScript
-* 👨‍🏫 Experienced in mentoring developers and conducting code reviews
+🛍️ **9+ years** of Shopify development experience
+🚀 Delivered **80+ Shopify projects**
+💎 Experienced with **Shopify Plus**
+🎨 Specialized in custom Shopify theme development
+🔌 Experienced with Shopify APIs, GraphQL, REST, and integrations
+⚡ Focused on performance, CRO, SEO, and user experience
+🧩 Experience with Checkout Extensions and Customer Account UI Extensions
+🏗️ Experienced in Shopify store migrations and custom solutions
+👨‍💻 Backend experience with Node.js, Express, and MongoDB
+⚛️ Frontend experience with React, Remix, Next.js, and modern JavaScript
+👨‍🏫 Experienced in mentoring developers and conducting code reviews
 
 ---
 
@@ -133,10 +133,9 @@ I've also contributed to the development of multiple premium Shopify themes publ
 
 ## 🧪 Certifications
 
-**Shopify Development Fundamentals**
+* **Shopify Development Fundamentals** - 
 Issued by [Shopify](https://www.credly.com/org/shopify) | [Credential](https://www.credly.com/badges/9effd9cf-6a34-4a4e-9386-3c6167e2b0bf/public_url)
-
-**Solution Planning Fundamentals**
+* **Solution Planning Fundamentals** - 
 Issued by [Shopify](https://www.credly.com/org/shopify) | [Credential](https://www.credly.com/badges/c1c537ce-70c0-4435-9a71-4f82b4d9f113/public_url)
 
 ---
@@ -145,9 +144,9 @@ Issued by [Shopify](https://www.credly.com/org/shopify) | [Credential](https://w
 
 I'm open to discussing **Shopify, Shopify Plus, e-commerce engineering, Shopify apps, and technical opportunities**.
 
-* 📧 Email: **[rhsrasel004@gmail.com](mailto:rhsrasel004@gmail.com)**
-* 💼 LinkedIn: [linkedin.com/in/rhsrasel](https://www.linkedin.com/in/rhsrasel)
-* 🌐 Portfolio: [rhs-rasel.myshopify.com](https://rhs-rasel.myshopify.com/)
+📧 Email: **[rhsrasel004@gmail.com](mailto:rhsrasel004@gmail.com)**
+💼 LinkedIn: [linkedin.com/in/rhsrasel](https://www.linkedin.com/in/rhsrasel)
+🌐 Portfolio: [rhs-rasel.myshopify.com](https://rhs-rasel.myshopify.com/)
 
 ---
 
