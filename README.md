@@ -42,15 +42,15 @@ I enjoy turning complex business requirements into clean, maintainable, and user
 
 **JavaScript · React · Remix · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Responsive Design**
 
-### Development Tools
+### Tools
 
-**Git · GitHub · VS Code · Shopify CLI**
+**Git · GitHub · VS Code · Shopify CLI · Claude · ChatGPT**
 
 ---
 
 ## 💼 Professional Experience
 
-### Senior Shopify Developer — Bevy Commerce
+### Senior Shopify Developer | [Bevy Commerce](https://www.bevycommerce.com/)
 
 **Shopify Premier Agency · April 2020 – April 2026**
 
@@ -64,7 +64,7 @@ I enjoy turning complex business requirements into clean, maintainable, and user
 * Mentored junior developers through code reviews, technical guidance, and best practices.
 * Collaborated with designers and stakeholders to deliver pixel-perfect and conversion-focused experiences.
 
-### Shopify Theme Developer — HasTechIT
+### Shopify Theme Developer | [HasTechIT](https://hastechit.com/)
 
 **October 2016 – March 2020**
 
@@ -73,7 +73,7 @@ I enjoy turning complex business requirements into clean, maintainable, and user
 * Worked extensively with Shopify Liquid, JavaScript, HTML, and CSS.
 * Implemented custom e-commerce functionality based on business requirements.
 
-### Frontend Developer — SunshineIT
+### Frontend Developer | [SunshineIT](https://sunshine.com.bd/)
 
 * Developed responsive web interfaces using HTML, CSS, and JavaScript.
 * Converted design concepts into functional, cross-browser-compatible interfaces.
@@ -134,10 +134,10 @@ I've also contributed to the development of multiple premium Shopify themes publ
 ## 🧪 Certifications
 
 **Shopify Development Fundamentals**
-Issued by Shopify
+Issued by [Shopify](https://www.credly.com/org/shopify) | [Credential](https://www.credly.com/badges/9effd9cf-6a34-4a4e-9386-3c6167e2b0bf/public_url)
 
 **Solution Planning Fundamentals**
-Issued by Shopify
+Issued by [Shopify](https://www.credly.com/org/shopify) | [Credential](https://www.credly.com/badges/c1c537ce-70c0-4435-9a71-4f82b4d9f113/public_url)
 
 ---
 
