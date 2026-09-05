@@ -12,16 +12,16 @@ I enjoy turning complex business requirements into clean, maintainable, and user
 
 ## 🚀 About Me
 
-🛍️ **9+ years** of Shopify development experience
-🚀 Delivered **80+ Shopify projects**
-💎 Experienced with **Shopify Plus**
-🎨 Specialized in custom Shopify theme development
-🔌 Experienced with Shopify APIs, GraphQL, REST, and integrations
-⚡ Focused on performance, CRO, SEO, and user experience
-🧩 Experience with Checkout Extensions and Customer Account UI Extensions
-🏗️ Experienced in Shopify store migrations and custom solutions
-👨‍💻 Backend experience with Node.js, Express, and MongoDB
-⚛️ Frontend experience with React, Remix, Next.js, and modern JavaScript
+🛍️ **9+ years** of Shopify development experience  
+🚀 Delivered **80+ Shopify projects**  
+💎 Experienced with **Shopify Plus**  
+🎨 Specialized in custom Shopify theme development  
+🔌 Experienced with Shopify APIs, GraphQL, REST, and integrations  
+⚡ Focused on performance, CRO, SEO, and user experience  
+🧩 Experience with Checkout Extensions and Customer Account UI Extensions  
+🏗️ Experienced in Shopify store migrations and custom solutions  
+👨‍💻 Backend experience with Node.js, Express, and MongoDB  
+⚛️ Frontend experience with React, Remix, Next.js, and modern JavaScript  
 👨‍🏫 Experienced in mentoring developers and conducting code reviews
 
 ---
