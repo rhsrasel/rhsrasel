@@ -144,8 +144,8 @@ Issued by [Shopify](https://www.credly.com/org/shopify) | [Credential](https://w
 
 I'm open to discussing **Shopify, Shopify Plus, e-commerce engineering, Shopify apps, and technical opportunities**.
 
-📧 Email: **[rhsrasel004@gmail.com](mailto:rhsrasel004@gmail.com)**
-💼 LinkedIn: [linkedin.com/in/rhsrasel](https://www.linkedin.com/in/rhsrasel)
+📧 Email: **[rhsrasel004@gmail.com](mailto:rhsrasel004@gmail.com)** 
+💼 LinkedIn: [linkedin.com/in/rhsrasel](https://www.linkedin.com/in/rhsrasel) 
 🌐 Portfolio: [rhs-rasel.myshopify.com](https://rhs-rasel.myshopify.com/)
 
 ---
