@@ -114,6 +114,14 @@ Some of the Shopify stores and e-commerce projects I've worked on:
 
 ---
 
+## 🎨 Shopify Public App
+
+I've also contributed to the development of a Shopify public app published on the Shopify App Store:
+
+* [Bevy Share Cart](https://apps.shopify.com/bevy-share-cart-social-link)
+
+---
+
 ## 🎨 Shopify Premium Themes
 
 I've also contributed to the development of multiple premium Shopify themes published on ThemeForest:
