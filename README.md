@@ -114,7 +114,7 @@ Some of the Shopify stores and e-commerce projects I've worked on:
 
 ---
 
-## 🎨 Shopify Public App
+## 🛍️ Shopify Public App
 
 I've also contributed to the development of a Shopify public app published on the Shopify App Store:
 
